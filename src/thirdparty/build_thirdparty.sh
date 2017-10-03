@@ -43,7 +43,7 @@ else
 fi
 
 # Clone catapult and build the static HTML needed for the UI.
-bash "$TP_DIR/build_ui.sh"
+#bash "$TP_DIR/build_ui.sh"
 
 echo "building arrow"
 cd $TP_DIR/arrow/cpp
